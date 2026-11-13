@@ -13,9 +13,7 @@
 * カラメ
 * 入れます(BAD END)
 
-* [テストプレイ](https://appi-github.github.io/tyrano_sample/)
-
-`docs/index.html` をブラウザで開いてもプレイできます。
+* [テストプレイ](https://nokaaaaa.github.io/tyrano_sample/)
 
 ## ファイル
 
