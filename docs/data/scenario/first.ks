@@ -53,7 +53,7 @@
 [image layer=0 folder=image storage=ramen/zenmashimashi.png width=540 height=720 left=370 top=0 visible=true time=500]
 
 「全マシマシで」[l][r]
-もはや丼ではない。これは山だ。登頂の覚悟はできているか。[r]
+ラーメンを食うか食われるか。これは戦いであって食事ではない[r]
 
 【 全マシマシ 】[l][cm]
 
@@ -66,7 +66,7 @@
 [image layer=0 folder=image storage=ramen/zenmashi.png width=960 height=720 left=160 top=0 visible=true time=500]
 
 「全マシで」[l][r]
-ヤサイ・ニンニク・アブラ・カラメ。迷ったら全部、それが正解だ。[r]
+ヤサイ・ニンニク・アブラ・カラメ。迷ったら全部。そんな日が一番幸せなのかもしれない。[r]
 
 【 全マシ 】[l][cm]
 
@@ -79,7 +79,7 @@
 [image layer=0 folder=image storage=ramen/ninniku.png width=960 height=720 left=160 top=0 visible=true time=500]
 
 「ニンニクで」[l][r]
-明日の予定は大丈夫か？ ……大丈夫じゃなくても、もう遅い。[r]
+明日の予定は大丈夫か？ ……もう後戻りはできない。[r]
 
 【 ニンニク 】[l][cm]
 
@@ -92,7 +92,7 @@
 [image layer=0 folder=image storage=ramen/yasai.png width=960 height=720 left=160 top=0 visible=true time=500]
 
 「ヤサイで」[l][r]
-これはヘルシー。野菜が多いのだから、実質サラダである。[r]
+これはヘルシー。野菜が多いのだから、実質カロリー0である。[r]
 
 【 野菜 】[l][cm]
 
