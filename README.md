@@ -4,7 +4,7 @@
 
 ティラノスクリプトのサンプルコード。
 
-* [テストプレイ](https://appi-github.github.io/tyrano_sample/)
+* [テストプレイ](https://nokaaaaa.github.io/tyrano_sample/)
 
 ## ライセンス
 
